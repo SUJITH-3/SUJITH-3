@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sujith S</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Full Stack Developer developer</h3>
 <img align="right" alt="coding" width:"400" src="https://cdn.shopify.com/s/files/1/0306/6419/6141/articles/coding_languages_1200x.png?v=1619126283">
 
 - 🔭 I’m currently working on **Frontend projects**
